@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://iesigong.github.io/sitemap
+Sitemap: https://iesigong.github.io/app/sitemap
+Sitemap: https://iesigong.github.io/assets/sitemap
+Sitemap: https://iesigong.github.io/css/sitemap
+Sitemap: https://iesigong.github.io/includes/sitemap
+Sitemap: https://iesigong.github.io/item/sitemap
+Sitemap: https://iesigong.github.io/src/sitemap
